@@ -78,7 +78,7 @@
     "postcss": "^8.5.1",
     "prettier": "^3.x",
     "stylelint": "^16.x",
-    "stylelint-config-standard": "^36.x",
+    "stylelint-config-standard": "^37.x",
     "typescript": "^5.x",
     "vite": "^6.x",
     "vite-bundle-visualizer": "^1.x",
