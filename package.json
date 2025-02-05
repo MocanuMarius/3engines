@@ -80,7 +80,7 @@
     "stylelint": "^16.x",
     "stylelint-config-standard": "^36.x",
     "typescript": "^5.x",
-    "vite": "^5.x",
+    "vite": "^6.x",
     "vite-bundle-visualizer": "^1.x",
     "vite-plugin-compression2": "^1.x",
     "vite-plugin-qrcode": "^0.x",
