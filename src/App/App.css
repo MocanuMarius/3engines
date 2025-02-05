@@ -1,0 +1,12 @@
+:root {
+  color-scheme: light dark;
+}
+
+html:has(#mode-switcher [value='light']:checked) {
+  color-scheme: light;
+}
+
+body {
+  color: light-dark(#333b3c, #efefec);
+  background-color: light-dark(#efedea, #223a2c);
+}
