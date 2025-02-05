@@ -70,7 +70,7 @@
     "autoprefixer": "^10.4.20",
     "c8": "^10.x",
     "eslint": "^9.x",
-    "happy-dom": "^15.x",
+    "happy-dom": "^16.x",
     "husky": "^9.x",
     "lint-staged": "^15.x",
     "msw": "^2.x",
