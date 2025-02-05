@@ -133,8 +133,8 @@ importers:
         specifier: ^2.x
         version: 2.1.9(@types/node@22.13.1)(@vitest/ui@2.1.9)(happy-dom@15.11.7)(lightningcss@1.29.1)(msw@2.7.0(@types/node@22.13.1)(typescript@5.7.3))(sugarss@4.0.1(postcss@8.5.1))
       web-vitals:
-        specifier: ^3.x
-        version: 3.5.2
+        specifier: ^4.x
+        version: 4.2.4
 
 packages:
 
@@ -4402,8 +4402,8 @@ packages:
   wcwidth@1.0.1:
     resolution: {integrity: sha512-XHPEwS0q6TaxcvG85+8EYkbiCux2XtWG2mkc47Ng2A77BQu9+DqIOJldST4HgPkuea7dvKSj5VgX3P1d4rW8Tg==}
 
-  web-vitals@3.5.2:
-    resolution: {integrity: sha512-c0rhqNcHXRkY/ogGDJQxZ9Im9D19hDihbzSQJrsioex+KnFgmMzBiy57Z1EjkhX/+OjyBpclDCzz2ITtjokFmg==}
+  web-vitals@4.2.4:
+    resolution: {integrity: sha512-r4DIlprAGwJ7YM11VZp4R884m0Vmgr6EAKe3P+kO0PPj3Unqyvv59rczf6UiGcb9Z8QxZVcqKNwv/g0WNdWwsw==}
 
   webidl-conversions@7.0.0:
     resolution: {integrity: sha512-VwddBukDzu71offAQR975unBIGqfKZpM+8ZX6ySk8nYhVoo5CYaZyzt3YBvYtRtO+aoGlqxPg/B87NGVZ/fu6g==}
@@ -9138,7 +9138,7 @@ snapshots:
     dependencies:
       defaults: 1.0.4
 
-  web-vitals@3.5.2: {}
+  web-vitals@4.2.4: {}
 
   webidl-conversions@7.0.0: {}
 
