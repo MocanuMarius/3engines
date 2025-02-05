@@ -1,44 +1,14 @@
-# Eruption 🌋
+# 3 Engines 🌋
 
 > Boilerplate for React/Typescript, built on top of Vite ⚡️
 
-_It's fast! Even the tests are fast, thanks to Vite with Vitest ⚡️_
-
-# What's in the boilerplate
-
-- [Vite](https://vitejs.dev/)
-- [React](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Vitest](https://vitest.dev/)
-- [Testing Library](https://testing-library.com/)
-- Dev Tools
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
-  - [CommitLint](https://commitlint.js.org/#/)
-  - [Husky](https://typicode.github.io/husky/#/)
-  - [Lint-Staged](https://github.com/okonet/lint-staged)
-
-# Installation
-
-There are two ways to install Eruption: using the template directly from GitHub (through the "Use Template" button), or using the [CLI](https://www.npmjs.com/package/create-eruption).
-
-If you want to use the CLI, run the following command on your terminal:
+Make sure you have installed pnpm globally then, to start the project
 
 ```Bash
-npm init eruption@latest
+npm i -g pnpm
+pnpm install
+pnpm run dev
 ```
-
-then, to start the project
-
-```Bash
-cd your-project-name
-npm install
-npm run dev
-```
-
-## Try it online
-
-Want to try Eruption without clone local? Try it on [StackBlitz](https://stackblitz.com/fork/github/eruptionjs/core)
 
 # Commits
 
